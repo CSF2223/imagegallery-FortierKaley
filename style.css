@@ -5,3 +5,31 @@ font color:
 secondary color:   
 tertiary color:    
 */
+
+/* CSS syntax notes:
+    selector {property: value;}
+*/
+
+body {
+        margin: 0;
+}
+
+header {
+    background-color: blue;
+     margin: 0;
+}
+
+h1 {
+    background-color: crimson;
+     margin: 0;
+}
+
+h4 {
+    background-color: lightGreen;
+     margin: 0;
+}
+
+h6 {
+    background-color: yellow;
+     margin: 0;
+}
